@@ -1,7 +1,9 @@
 # brunaalves
 Meu nome é Bruna alves silva
 
-Cursos: Programador de Sistemas (Senac Goias) (em andamento)
+Atualmente estudo: Serviço Nacional de Aprendizagem Comercial (Senac-Goiás)
+
+Cursos: Programador de Sistemas (em andamento)
 
 Conhecimento: Postgresql, Javascript
 
