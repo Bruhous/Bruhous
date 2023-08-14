@@ -1,8 +1,8 @@
 # brunaalves
 Meu nome é Bruna alves silva
 
-Cursos: Programador de Sistemas (em andamento)
+Cursos: Programador de Sistemas (Senac Goias) (em andamento)
 
-tecnologias que domino: Postgresql, Javascript
+Conhecimento: Postgresql, Javascript
 
 E-mail: Bruhousalves@gmail.com
