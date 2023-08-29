@@ -8,6 +8,8 @@ Atualmente estudo: Serviço Nacional de Aprendizagem Comercial (Senac-Goiás)
 
 Cursos: Programador de Sistemas (concluido)
 
-Conhecimento: Postgresql, Javascript
+Conhecimento: 
+PostgreSql 
+Javascript
 
 E-mail: Bruhousalves@gmail.com
