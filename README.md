@@ -1,5 +1,5 @@
 # brunaalves
-Meu nome é Bruna Alves Silva
+Meu nome é Bruna Alves Silva tenho 24 anos
 
 Formada academicamente em:
   ✅ -> Programação de Sistemas back-end 
